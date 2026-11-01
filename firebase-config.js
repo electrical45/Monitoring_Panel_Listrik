@@ -1,5 +1,6 @@
-const firebaseConfig = {
-  apiKey: "AIzaSyA-5RLFGBtZoQR7MJjJQ4S5mUFFOmEqP7Q",
+// firebase-config.js
+export const firebaseConfig = {
+  apiKey: "AIzaSyA-5RLFGBtZoQR7MjJQ4S5mUFFOmEqP7Q",
   authDomain: "monitoring-panel-listrik-bd28e.firebaseapp.com",
   databaseURL: "https://monitoring-panel-listrik-bd28e-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "monitoring-panel-listrik-bd28e",
